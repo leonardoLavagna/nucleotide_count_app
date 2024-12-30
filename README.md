@@ -4,7 +4,7 @@
 In this repository there is the surce code for the application dna-nucleotide-count-app that counts and visualize the number of nucleotides present in a DNA string. 
 
 ### Use the app
-Here is the link at the app: https://share.streamlit.io/leonardolavagna/dna-nucleotide-count-app/main/dna-app.py
+Here is the link at the app: [https://nucleotidecount.streamlit.app/](https://nucleotidecount.streamlit.app/)
 
 ### What's in here?
 - The **script** for the app `dna-app.py`
